@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverRecognition", "Assembly-CSharp-firstpass.csproj", "{4AE89CB9-F276-E967-3C30-C4C475F7D983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverRecognition", "Assembly-CSharp.csproj", "{77FF25E6-D040-9C7B-D869-D8E6A89D2E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverRecognition", "Assembly-CSharp-Editor-firstpass.csproj", "{5C3E96CA-5EB9-49E1-229F-823D0EBE2C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE89CB9-F276-E967-3C30-C4C475F7D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE89CB9-F276-E967-3C30-C4C475F7D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE89CB9-F276-E967-3C30-C4C475F7D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE89CB9-F276-E967-3C30-C4C475F7D983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FF25E6-D040-9C7B-D869-D8E6A89D2E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FF25E6-D040-9C7B-D869-D8E6A89D2E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FF25E6-D040-9C7B-D869-D8E6A89D2E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FF25E6-D040-9C7B-D869-D8E6A89D2E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3E96CA-5EB9-49E1-229F-823D0EBE2C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3E96CA-5EB9-49E1-229F-823D0EBE2C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3E96CA-5EB9-49E1-229F-823D0EBE2C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3E96CA-5EB9-49E1-229F-823D0EBE2C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
